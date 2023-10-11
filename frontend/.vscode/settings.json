@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "Medhelp",
+    "id": "6523edd2aa352b07241ff750",
+    "framework": "react",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "e:\\Projects\\Medhelp\\src\\components",
+    "screensPath": "e:\\Projects\\Medhelp\\src\\pages",
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Pascal Case"
+  }
+}
